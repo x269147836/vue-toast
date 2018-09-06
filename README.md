@@ -1,4 +1,4 @@
-# a simple vue-toast tool
+# A simple vue toast utils for mobile
 
 ### import
 
