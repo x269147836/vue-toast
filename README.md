@@ -9,7 +9,7 @@
 
 ### use
 
-## default
+#### default
 ```
   vm.$toast({
     message: 'message...',
@@ -18,17 +18,17 @@
   })
 ```
 
-## success
+#### success
 ```
   vm.$toast.success('success')
 ```
 
-## fail
+#### fail
 ```
   vm.$toast.fail('success')
 ```
 
-## loading and close
+#### loading and close
 ```
   vm.$toast.loading('loading...')
   setTimeout(() => vm.$toast.close(), 1000);
